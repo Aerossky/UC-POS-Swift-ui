@@ -56,7 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				04582E6129FA7D77000C9861 /* UCWalkPOSApp.swift */,
-				04582E6329FA7D77000C9861 /* ContentView.swift */,
+				04582E7529FA9F18000C9861 /* Views */,
 				04582E7229FA8F29000C9861 /* Components */,
 				04582E6F29FA8A8D000C9861 /* Models */,
 				04582E6529FA7D79000C9861 /* Assets.xcassets */,
@@ -87,6 +87,14 @@
 				04582E7329FA9113000C9861 /* ProductCard.swift */,
 			);
 			path = Components;
+			sourceTree = "<group>";
+		};
+		04582E7529FA9F18000C9861 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				04582E6329FA7D77000C9861 /* ContentView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
